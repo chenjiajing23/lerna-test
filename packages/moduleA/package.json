@@ -1,6 +1,6 @@
 {
   "name": "modulea",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "modulea",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "dependencies": {
     "jquery": "^3.6.0",
     "lodash": "^4.17.21",
-    "moduleb": "^1.0.0"
+    "moduleb": "^1.0.1"
   }
 }
